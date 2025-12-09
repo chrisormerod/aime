@@ -1,0 +1,101 @@
+---
+title: "Artificial Intelligence in Measurement and Education"
+ 
+format: 
+  revealjs:
+    logo: ../../images/logo-no-background-name.png
+    theme: [default, aime_theme.scss]
+---
+
+## Introductions
+
+### Executive Board
+
+-   Co-Chair: Chris Ormerod
+
+-   Co-chair: John Whitmer
+
+-   Secretary: Maggie Beiting-Parrish
+
+## Outline
+
+-   AIME Updates
+
+-   Research Presentation: YoungKoung Kim (College Board)
+
+-   Additional SIG Updates & Calls for Participation
+
+
+## AIME Updates
+
+### AIME-Con
+
+The papers are available at
+
+https://aclanthology.org/events/aimecon-2025/
+
+A big thanks to all our sponsors: 
+
+### Platinum
+
+Duolingo, Pearson
+
+### Gold
+
+Curriculum Associates, ETS Research Institute
+
+### Silver
+
+Cambium Assessment, CollegeBoard, EdCount, NBME, Gates Foundation
+
+
+## AIME Updates
+
+### NCME 2026 Annual Meeting
+
+**Date**: April 8-11, 2026
+
+**Location**: Los Angeles, California
+
+**Theme**: Moving Measurement Forward
+
+**Call for Proposals**: Friday, September 12, 2025, at 11:59 PM PDT
+
+The NCME Annual Meeting was a great success for AI. We encourage our members to collaborate towards organizing coordinated sessions over individual papers.
+
+**2026 Annual Meeting Program Chairs:** Pamela Kaliski and Stefanie Wind
+
+
+## Research Presentation
+
+YoungKoung Kim, College Board
+
+Predicting Item Difficulty for Pretest Items in Large-Scale Assessments
+
+# Additional SIG Updates & Calls for Participation
+
+## International Meeting of the Psychometric Society
+
+IMPS is the annual International Meeting of the Psychometric Society, a professional organization devoted to the development of psychology as a quantitative rational science, including the advancement of theory and methodology for behavioral data analysis in psychology, education, and the social and behavioral sciences generally. 
+
+The IMPS 2026 Annual Meeting is scheduled to be an in-person meeting. The conference will take place at Yonsei University. Mark your calendars to join us in Seoul, Republic of Korea, in July 2026, and please continue to check this website in the future for more updates!
+
+**Proposal Deadline**: January 15, 2026
+
+**Place**: Seoul, Republic of Korea
+
+**Date**: July 21-24, 2026
+
+https://www.psychometricsociety.org/
+
+## The 27th International Conference on AI in Education (AIED 2026)
+
+AIED 2026 marks the 27th edition of the International Conference on Artificial Intelligence in Education, at a time when AI is transforming education and society at an unprecedented pace. AIED 2026 will serve as a vibrant forum for researchers, practitioners, and policymakers to critically examine the promises, challenges, and impacts of AI in education.
+
+**Proposal Deadline**: January 26, 2026
+
+**Place**: Seoul, Republic of Korea
+
+**Date**: June 29 - July 3, 2026
+
+

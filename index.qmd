@@ -10,6 +10,8 @@ Our charter can be found [here](about.html).
 
 Our NCME webpage can be found [here](https://www.ncme.org/community/ncme-sigimie/aime).
 
+Join our LinkedIn group: [here](https://www.linkedin.com/groups/14967023/)
+
 Interested in joining us? The signup form can be found [here](https://form.jotform.com/ncme/SIGIMIESIGNUP). We currently hold monthly meetings and are organizing a speaker series.
 
 For any additional information regarding this SIGIMIE, please contact a member of the leadership team.
@@ -18,19 +20,14 @@ For any additional information regarding this SIGIMIE, please contact a member o
 
 **Innovation and Evidence: Shaping the Future of AI in Educational Measurement**
 
-| Presenting Organization | Artificial Intelligence in Measurement and Education (AIME) Special Interest Group of the National Council on Measurement in Education (NCME) |
-|-----------------|-------------------------------------------------------|
-| Location                | Pittsburgh, Pennsylvania, United States<br>Wyndham Grand Pittsburgh Downtown                                                                  |
-| Dates                   | October 27 through October 29, 2025                                                                                                           |
-| Modality                | In-person                                                                                                                                     |
-| Program                 | Full Program [Here](meetings/AIMECon-Program-2025.pdf)                                                                                        |
-| Proposal Deadline       | June 15, 2025; 11:59pm EST                                                                                                                    |
+Held on October 27 through October 29, 2025  
 
-For more information, visit the official AIME-Con website:
+### Proceedings
 
-<https://www.ncme.org/event/special-conferences/aime-conference>
+<https://aclanthology.org/events/aimecon-2025/>
 
-### The Rise of Artificial Intelligence in Educational Measurement: Opportunities and Ethical Challenges
+
+## The Rise of Artificial Intelligence in Educational Measurement: Opportunities and Ethical Challenges
 
 The white paper can be downloaded from the arxiv:
 
