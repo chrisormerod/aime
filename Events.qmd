@@ -234,19 +234,17 @@ December 10th: 4:00pm - 5:00pm (EST) \[[Slides](meetings/December2025/slides.htm
 
 **Title:** Predicting Item Difficulty for Pretest Items in Large-Scale Assessments
 
-**Presenter:** YoungKoung Kim (College Board) 
+**Presenter:** YoungKoung Kim (College Board) \[[Slides](meetings/December2025/aime_itemstats_prediction_kim_2025_12_10_final.pdf)\]
 
 ------------------------------------------------------------------------
 
-January 14th: 4:00pm - 5:00pm (EST) 
+January 14th: 4:00pm - 5:00pm (EST)
 
 **Title:** (TBD)
 
 **Presenter:** Ikkyu Choi
 
 ------------------------------------------------------------------------
-
-
 
 ------------------------------------------------------------------------
 
@@ -255,7 +253,7 @@ January 14th: 4:00pm - 5:00pm (EST)
 **Moving Measurement Forward**
 
 | Presenting Organization | Artificial Intelligence in Measurement and Education (AIME) Special Interest Group of the National Council on Measurement in Education (NCME) |
-|-------------------|-----------------------------------------------------|
+|----|----|
 | Location | Los Angeles, California |
 | Dates | April 8 through October 11, 2026 |
 | Modality | In-person |
