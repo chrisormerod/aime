@@ -32,7 +32,7 @@ format:
 
 The papers are available at
 
-https://aclanthology.org/events/aimecon-2025/
+[https://aclanthology.org/events/aimecon-2025/](https://aclanthology.org/events/aimecon-2025/)
 
 A big thanks to all our sponsors: 
 
@@ -58,10 +58,6 @@ Cambium Assessment, CollegeBoard, EdCount, NBME, Gates Foundation
 **Location**: Los Angeles, California
 
 **Theme**: Moving Measurement Forward
-
-**Call for Proposals**: Friday, September 12, 2025, at 11:59 PM PDT
-
-The NCME Annual Meeting was a great success for AI. We encourage our members to collaborate towards organizing coordinated sessions over individual papers.
 
 **2026 Annual Meeting Program Chairs:** Pamela Kaliski and Stefanie Wind
 

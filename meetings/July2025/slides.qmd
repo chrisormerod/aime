@@ -47,19 +47,19 @@ format:
 
 Thank you to everyone who submitted to AIME-Con. For everyone's information, we received the following:
 
-- 186 Individual Paper/Works in Progress proposals
+-   186 Individual Paper/Works in Progress proposals
 
-- 18 Coordinated Session proposals
+-   18 Coordinated Session proposals
 
-- 10 Training Sessions proposals
+-   10 Training Sessions proposals
 
 ### Get those reviews in today!
 
-Please get those reviews in so that we can finalize the program. 
+Please get those reviews in so that we can finalize the program.
 
 ### Registration will be comming soon!!!
 
-We are looking at a registration that includes all meals. Thanks to the generous support of all our sponsors, we are currently projecting a registration fee of $450.
+We are looking at a registration that includes all meals. Thanks to the generous support of all our sponsors, we are currently projecting a registration fee of \$450.
 
 We are also looking to provide generous travel support for students and those affected by cuts/layoffs in education.
 
@@ -69,22 +69,19 @@ We are also looking to provide generous travel support for students and those af
 
 **Date**: April 8-11, 2026
 
-**Location**:  Los Angeles, California
+**Location**: Los Angeles, California
 
 **Theme**: Moving Measurement Forward
 
 **Call for Proposals**: Friday, September 12, 2025, at 11:59 PM PDT
 
-The NCME Annual Meeting was a great success for AI. We encourage our members to collaborate towards organizing coordinated sessions over individual papers. 
-
+The NCME Annual Meeting was a great success for AI. We encourage our members to collaborate towards organizing coordinated sessions over individual papers.
 
 **2026 Annual Meeting Program Chairs:** Pamela Kaliski and Stefanie Wind
 
 ## Research Presentation
 
 MArharshi Gor, The University of Maryland
-
-
 
 # Additional SIG Updates & Calls for Participation
 

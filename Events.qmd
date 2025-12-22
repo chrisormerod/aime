@@ -234,17 +234,23 @@ December 10th: 4:00pm - 5:00pm (EST) \[[Slides](meetings/December2025/slides.htm
 
 **Title:** Predicting Item Difficulty for Pretest Items in Large-Scale Assessments
 
-**Presenter:** YoungKoung Kim (College Board) \[[Slides](meetings/December2025/aime_itemstats_prediction_kim_2025_12_10_final.pdf)\]
+**Presenter:** YoungKoung Kim (College Board) \[[Slides](meetings/December2025/aime_itemstats_prediction_kim_2025_12_10_final.pdf)\] \[[link](https://drive.google.com/file/d/13ZzEjD0lBgf8gvdbzyPSedWcAzLirkuF/view?usp=sharing)\]
 
 ------------------------------------------------------------------------
 
 January 14th: 4:00pm - 5:00pm (EST)
 
-**Title:** (TBD)
+**Title:** When Language Models Model Items and Examinees: Methodological Considerations for Evaluation
 
 **Presenter:** Ikkyu Choi
 
 ------------------------------------------------------------------------
+
+February 11th: 4:00pm - 5:00pm (EST)
+
+**Title:**  (TBD)
+
+**Presenter:** (TBD)
 
 ------------------------------------------------------------------------
 
