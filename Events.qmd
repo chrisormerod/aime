@@ -238,7 +238,7 @@ December 10th: 4:00pm - 5:00pm (EST) \[[Slides](meetings/December2025/slides.htm
 
 ------------------------------------------------------------------------
 
-January 14th: 4:00pm - 5:00pm (EST)
+January 14th: 4:00pm - 5:00pm (EST) ) \[[Slides](meetings/January2026/slides.html)\]
 
 **Title:** When Language Models Model Items and Examinees: Methodological Considerations for Evaluation
 
@@ -248,7 +248,7 @@ January 14th: 4:00pm - 5:00pm (EST)
 
 February 11th: 4:00pm - 5:00pm (EST)
 
-**Title:**  (TBD)
+**Title:** (TBD)
 
 **Presenter:** (TBD)
 
@@ -259,7 +259,7 @@ February 11th: 4:00pm - 5:00pm (EST)
 **Moving Measurement Forward**
 
 | Presenting Organization | Artificial Intelligence in Measurement and Education (AIME) Special Interest Group of the National Council on Measurement in Education (NCME) |
-|----|----|
+|------------------------------------|------------------------------------|
 | Location | Los Angeles, California |
 | Dates | April 8 through October 11, 2026 |
 | Modality | In-person |
