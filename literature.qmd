@@ -7,4 +7,3 @@ html:
 We have ported our literature to the following site:
 
 [aievidencehub.org](http://aievidencehub.org/lib/)
-

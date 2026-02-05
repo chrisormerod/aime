@@ -242,17 +242,26 @@ January 14th: 4:00pm - 5:00pm (EST) ) \[[Slides](meetings/January2026/slides.htm
 
 **Title:** When Language Models Model Items and Examinees: Methodological Considerations for Evaluation
 
-**Presenter:** Ikkyu Choi
+**Presenter:** Ikkyu Choi (ETS) \[[link](https://drive.google.com/file/d/1y-OagBx9y5UYPeSgczpu-EvS3bCLPtpS/view?usp=drive_link)\]
 
 ------------------------------------------------------------------------
 
-February 11th: 4:00pm - 5:00pm (EST)
+February 18th: 4:00pm - 5:00pm (EST)
+
+**Title:** GenAI Evidence Hub for Assessment: Initial Insights & Methods to Interpret AI Research Results
+
+**Presenter:** John Whitmer (Learning Data Insights), Aaron Wong (University of Minnesota), Maggie Beiting-Parrish
+
+------------------------------------------------------------------------
+
+March 17th: 4:00pm - 5:00pm (EST)
 
 **Title:** (TBD)
 
-**Presenter:** (TBD)
+**Presenter:** Jodi Casabianca
 
 ------------------------------------------------------------------------
+
 
 **NCME 2026 Annual Meeting**
 
