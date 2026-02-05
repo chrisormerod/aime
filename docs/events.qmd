@@ -1,0 +1,275 @@
+---
+title: "Events"
+---
+
+On this page, we aim to keep you up-to-date on events relevant to AI in Education.
+
+### **Member Events 2023**
+
+------------------------------------------------------------------------
+
+June 14th 4:00pm - 5:00pm (EST) over Zoom. \[[Slides](meetings/June2023/slides.html) [Notes](meetings/June14-202.html)\]
+
+**Introductory meeting**
+
+------------------------------------------------------------------------
+
+## Speaker Series
+
+If you are interested in presenting, please contact the leadership team. Guidelines for speakers can be found [here](guidelines.html).
+
+------------------------------------------------------------------------
+
+July 12th 4:00pm - 5:00pm (EST) over Zoom. \[[Slides](meetings/July2023/slides.html)\]
+
+**Title:** "Khanmigo" Demonstration & Lessons Learned Building GenAI Apps
+
+**Presenter:** Kristen Dicerbo, Chief Learning Officer, Khan Academy
+
+**Title:** Open Source Revolution: Large Models on Small Hardware
+
+**Presenter:** Chris Ormerod, Principal Data Scientist, Cambium Assessment
+
+------------------------------------------------------------------------
+
+August 9th 4:00pm - 5:00pm (EST) over Zoom. \[[Slides](meetings/August2023/slides.html)\]
+
+**Title :** Exploring Automated Distractor and Feedback Generation for Math Multiple-choice Questions via In-context Learning
+
+**Presenter:** Andrew Lan, University of Massachusetts Amherst
+
+**Recording :** \[[link](https://us06web.zoom.us/rec/share/5o6RtYJJFZgbRRbZBkRfQ9RbuoVnrFN2kFfEAyPRWShEtb-jyrQMmlQK1VfkL707.kgteeW6fkLc5HGnA)\] (Passcode: BaF?W=\@6)
+
+------------------------------------------------------------------------
+
+September 13th 4:00pm - 5:00pm (EST). \[[Slides](meetings/September2023/slides.html)\]
+
+**Title:** Automated Item Development for Language Assessment: Using GPT to create complex reading and listening tasks
+
+**Presenter:** Andrew Runge, Duolingo
+
+**Recording :** \[[link](https://us06web.zoom.us/rec/share/4NrrZz3BHsylFTjWaRT5PSZQ7-oqXw0FkuV7igUO26QfY1YcJY5hDYpIj5zcAnYz.mo5Vu0kQERdtpjUP)\] (Passcode: MA4\^r8E#)
+
+------------------------------------------------------------------------
+
+October 11th 4:00pm - 5:00pm (EST) \[[Slides](meetings/October2023/slides.html)\]
+
+**Title:** Bias in Large Language Models in Education: Sources, Measures, and Mitigation Strategies
+
+**Presenter:** Réne Kizilcec, Assistant Professor, Purdue University \[[link](https://drive.google.com/file/d/1ln9eJJq4lCOSBscKgvf32eeN_TX5tplH/view?usp=drive_link)\]
+
+------------------------------------------------------------------------
+
+November 8th 4:00pm - 5:00pm (EST) \[[Slides](meetings/November2023/slides.html)\]
+
+**Title:** Exploring the Results of the NAEP Math and Reading Automated Scoring Challenges: Implications for Fairness
+
+**Presenter:** Maggie Beiting-Parrish, Federation of American Scientists \[[link](https://drive.google.com/file/d/14aGLApSEGMwDo-LsTbOZo2rMWYreMKE_/view?usp=drive_link)\]
+
+------------------------------------------------------------------------
+
+December 13th 4:00pm - 5:00pm (EST) \[[Slides](meetings/December2023/slides.html)\]
+
+**Title:** Retrieval-augmented Generation to Improve Math Question-Answering: Trade-offs Between Groundedness and Human Preference
+
+**Presenter:** Zachary Levonian \[[link](https://drive.google.com/file/d/1x1rHOZVzbfxtdUbGWXPPbMHo0iafAkDk/view?usp=drive_link)\]
+
+------------------------------------------------------------------------
+
+### **Member Events 2024**
+
+February 14th 4:00pm - 5:00pm (EST) \[[Slides](meetings/February2024/slides.html)\]
+
+**Title:** An Application of Text Embeddings to Support Alignment of Educational Content Standards
+
+**Presenters:** Harold Doran & Reese Butterfuss, Human Resources Research Organization
+
+------------------------------------------------------------------------
+
+March 14th 4:00pm - 5:00pm (EST) \[[Slides](meetings/March2024/slides.html)\]
+
+**Title:** Using Large Language Models for Item Development beyond Language Testing: Barriers and Opportunities
+
+**Presenter:** Victoria Yaneva, National Board of Medical Examiners
+
+------------------------------------------------------------------------
+
+April 11th-14th : NCME Annual Conference
+
+Consider this [Schedule of Talks about AI and Measurement or Education](meetings/NCME2024/ncme-conference.html)
+
+------------------------------------------------------------------------
+
+May 8th 4:00pm - 5:00pm (EST) \[[Slides](meetings/May2024/slides.html)\]
+
+**Title:** Natural Language Processing for Improving Student Learning Outcomes
+
+**Presenter:** Rose E. Wang, Stanford University \[[link](https://drive.google.com/file/d/1oX5MwTNqd3Bb1MngWL95Ixw66MWJYaUt/view?usp=drive_link%5D)\]
+
+------------------------------------------------------------------------
+
+June 12th 4:00pm - 5:00pm (EST) \[[Slides](meetings/June2024/slides.html)\]
+
+**Title:** Write On with Cambi: The development of an argumentative writing feedback tool
+
+**Presenters:** Christopher Ormerod, Amy Burkhardt, and Milan Patel from Cambium Assessment
+
+------------------------------------------------------------------------
+
+July 10th 4:00pm - 5:00pm (EST) \[[Slides](meetings/July2024/slides.html)\]
+
+**Title:** Examining Automated Writing Evaluation Tools
+
+**Presenters:** Corey Palermo from Measurement Inc. and Josh Wilson from the University of Delaware \[[link](https://drive.google.com/file/d/1oX5MwTNqd3Bb1MngWL95Ixw66MWJYaUt/view?usp=drive_link)\]
+
+------------------------------------------------------------------------
+
+August 14th 4:00pm - 5:00pm (EST) \[[Slides](meetings/August2024/slides.html)\]
+
+**Title:** Securing Tests with AI: Initial Explorations in Item Generation
+
+**Presenter:** Sergio Araneda from Caveon
+
+------------------------------------------------------------------------
+
+September 11th 4:00pm - 5:00pm (EST) \[[Slides](meetings/September2024/slides.html)\]
+
+(Speaker Cancellation)
+
+------------------------------------------------------------------------
+
+October 9th 4:00pm - 5:00pm (EST) \[[Slides](meetings/October2024/slides.html)\]
+
+**Title:** Enhancing Automated Scoring Engines with Generative AI: A Dual-Study
+
+**Presenter:** Justin O. Barber and Edward W. Wolfe from Pearson \[[link](https://drive.google.com/file/d/1--D7rcv234AVJ-Xj1DZFMWNsD0fV7jeZ/view?usp=sharing)\]
+
+------------------------------------------------------------------------
+
+November 13th 4:00pm - 5:00pm (EST) \[[Slides](meetings/November2024/slides.html)\]
+
+**Title:** Human-AI Partnerships to Support Collaborative Learning
+
+**Presenter:** Peter Foltz, University of Colorado, Boulder \[[link](https://drive.google.com/file/d/1f5Ydqce3QLdVfBQJBmTHv9W_3wMU_jLb/view?usp=sharing)\]
+
+### **Member Events 2025**
+
+January 8th 4:00pm - 5:00pm (EST) \[[Slides](meetings/January2025/slides.html)\]
+
+**Title:** Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs
+
+**Presenter:** Alex Scarlatos, University of Massachusetts Amherst \[[link](https://drive.google.com/file/d/1GFXJIH6Terif1CFj-rVlP7Y6t9oDpMoh/view?usp=drive_link)\]
+
+------------------------------------------------------------------------
+
+February 26th 4:00pm - 5:00pm (EST) \[[Slides](meetings/February2025/slides.html)\]
+
+**Title:** Vignettes on Algorithmic Fairness and Generative AI Evaluation
+
+**Presenters:** Sanmi Koyejo, Sang Truong, and Angelina Wang, Stanford University \[[link](https://drive.google.com/file/d/1VjkqFwyzBgOmUGuvVjCwmrqigXYLILe3/view?usp=drive_link)\]
+
+------------------------------------------------------------------------
+
+March 19th 4:00pm - 5:00pm (EST) \[[Slides](meetings/March2025/slides.html)\]
+
+**Title:** Generating Automatic Feedback for Open-Ended Questions with Fine-Tuned LLMs: A Comparison of GPT and Llama
+
+**Presenter:** Okan Bulut, and Elisabetta Mazzullo, University of Alberta \[[link](https://drive.google.com/file/d/1ZF3GjwMNvRYHu03W90fqHhzkFF0eEdtW/view?usp=drive_link)\]
+
+------------------------------------------------------------------------
+
+April 23th-26th : NCME Annual Conference
+
+<https://www.ncme.org/event/annual-meeting/upcoming-meeting2025>
+
+[AI Talks](meetings/NCME2025/ncme-conference.html)
+
+------------------------------------------------------------------------
+
+May 14th: 4:00pm - 5:00pm (EST) \[[Slides](meetings/May2025/slides.html)\]
+
+**Title:** Finding Words Associated with DIF: Predicting Differential Item Functioning using LLMs and Explainable AI
+
+**Presenter:** Hotaka Maeda, Smarter Balanced \[[Slides](meetings/May2025/maeda_aime_zoom_2025.pdf)\]
+
+------------------------------------------------------------------------
+
+June 11th: 4:00pm - 5:00pm (EST) \[[Slides](meetings/June2025/slides.html)\]
+
+**Title:** Leveraging LLMs as respondents for item evaluation and item generation: A psychometric analysis
+
+**Presenters:** Yunting Liu, Shreya Bhandari, and Zachary Pardos, UC Berkeley School of Education \[[link](https://drive.google.com/file/d/1UrhRempUJEe8AqaHlJnE_c546uHSlUuQ/view?usp=drive_link)\]
+
+------------------------------------------------------------------------
+
+July 10th: 4:00pm - 5:00pm (EST) \[[Slides](meetings/July2025/slides.html)\]
+
+**Title:** Complementary Minds: Quantifying Human–AI Strengths and Robustness for Question Answering
+
+**Presenter:** Maharshi Gor, The University of Maryland \[[link](https://drive.google.com/file/d/1YQ9v1YmelPR-s-uY1Kq7qOL0TH4VLsVC/view?usp=sharing)\]
+
+------------------------------------------------------------------------
+
+August 13th: 4:00pm - 5:00pm (EST) \[[Slides](meetings/August2025/slides.html)\]
+
+**Title:** Henry Makinde, The University of North Carolina at Greensboro
+
+**Presenter:** AI-Generated Medical Certification Items Using LLMs \[[link](https://drive.google.com/file/d/1iT6t6mIs6XoKHoHAQkyyZEQJhrgNYBbF/view?usp=sharing)\]
+
+------------------------------------------------------------------------
+
+September 10th: 4:00pm - 5:00pm (EST) \[[Slides](meetings/September2025/slides.html)\]
+
+**Title:** AI-Based Automated Scoring in Multilingual Large-Scale Assessments
+
+**Presenter:** Ummugul Bezirhan (Boston College) \[[link](https://drive.google.com/file/d/135gAHV1x2oYIfqdlWpnUSSIVliCehDHU/view?usp=sharing)\]
+
+------------------------------------------------------------------------
+
+October : AIME-Con!!!
+
+------------------------------------------------------------------------
+
+December 10th: 4:00pm - 5:00pm (EST) \[[Slides](meetings/December2025/slides.html)\]
+
+**Title:** Predicting Item Difficulty for Pretest Items in Large-Scale Assessments
+
+**Presenter:** YoungKoung Kim (College Board) \[[Slides](meetings/December2025/aime_itemstats_prediction_kim_2025_12_10_final.pdf)\] \[[link](https://drive.google.com/file/d/13ZzEjD0lBgf8gvdbzyPSedWcAzLirkuF/view?usp=sharing)\]
+
+------------------------------------------------------------------------
+
+January 14th: 4:00pm - 5:00pm (EST) ) \[[Slides](meetings/January2026/slides.html)\]
+
+**Title:** When Language Models Model Items and Examinees: Methodological Considerations for Evaluation
+
+**Presenter:** Ikkyu Choi
+
+------------------------------------------------------------------------
+
+February 11th: 4:00pm - 5:00pm (EST)
+
+**Title:** (TBD)
+
+**Presenter:** (TBD)
+
+------------------------------------------------------------------------
+
+**NCME 2026 Annual Meeting**
+
+**Moving Measurement Forward**
+
+| Presenting Organization | Artificial Intelligence in Measurement and Education (AIME) Special Interest Group of the National Council on Measurement in Education (NCME) |
+|------------------------------------|------------------------------------|
+| Location | Los Angeles, California |
+| Dates | April 8 through October 11, 2026 |
+| Modality | In-person |
+| Call for Proposals | See the [call for proposals here](https://higherlogicdownload.s3.amazonaws.com/NCME/4b7590fc-3903-444d-b89d-c45b7fa3da3f/UploadedImages/2026_Annual_Meeting/CallforProposals2026_July2.pdf). |
+| Proposal Deadline | September 12, 2025; 11:59pm PDT |
+
+For more information, visit the official NCME Annual Meeting website:
+
+<https://www.ncme.org/event/annual-meeting/upcoming-meeting2026>
+
+------------------------------------------------------------------------
+
+Please send any new entries to John Whitmer [jwhitmer\@fas.org](mailto:jwhitmer@fas.org){.email} and Maggie Beiting-Parrish [Magdalen.Beiting\@ed.gov](mailto:Magdalen.Beiting@ed.gov){.email}

@@ -20,12 +20,11 @@ For any additional information regarding this SIGIMIE, please contact a member o
 
 **Innovation and Evidence: Shaping the Future of AI in Educational Measurement**
 
-Held on October 27 through October 29, 2025  
+Held on October 27 through October 29, 2025
 
 ### Proceedings
 
 <https://aclanthology.org/events/aimecon-2025/>
-
 
 ## The Rise of Artificial Intelligence in Educational Measurement: Opportunities and Ethical Challenges
 
@@ -37,7 +36,7 @@ A special thanks to Okan Bulut for his organization and all the authors for putt
 
 ## Leadership Team
 
-**Co-chair:** [Christopher Ormerod](mailto:christopher.ormerod@gmail.com)
+**Co-chair:** [Christopher Ormerod](mailto:cormerod@collegeboard.org)
 
 **Co-chair:** [John Whitmer](john@ld-insights.com)
 
