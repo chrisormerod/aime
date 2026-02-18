@@ -246,7 +246,7 @@ January 14th: 4:00pm - 5:00pm (EST) ) \[[Slides](meetings/January2026/slides.htm
 
 ------------------------------------------------------------------------
 
-February 18th: 4:00pm - 5:00pm (EST)
+February 18th: 4:00pm - 5:00pm (EST) \[[Slides](meetings/February2026/slides.html)\]
 
 **Title:** GenAI Evidence Hub for Assessment: Initial Insights & Methods to Interpret AI Research Results
 
