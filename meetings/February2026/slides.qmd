@@ -1,0 +1,124 @@
+---
+title: "Artificial Intelligence in Measurement and Education"
+ 
+format:
+  revealjs:
+    logo: ../../images/logo-no-background-name.png
+    theme: [default, aime_theme.scss]
+---
+
+## Introductions
+
+### Executive Board
+
+-   Co-Chair: Chris Ormerod
+
+-   Co-chair: John Whitmer
+
+-   Secretary: Maggie Beiting-Parrish
+
+## Outline
+
+-   AIME Updates
+
+-   Research RFPs
+
+-   Research Presentation: John Whitmer (Learning Data Insights), Aaron Wong (University of Minnesota), Maggie Beiting-Parrish
+
+-   Additional SIG Updates & Calls for Participation
+
+## AIME Updates
+
+------------------------------------------------------------------------
+
+## AIME-Con 2.0 Updates
+
+This year’s conference theme, “Measurement Science in AI-Integrated Assessment and Pedagogy,” explores the vital intersection of AI innovation and psychometric rigor, ensuring that the next generation of educational tools is anchored in validity, reliability, and fairness.
+
+**Theme:** Measurement Science in AI-Integrated Assessment and Pedagogy
+
+**Location:** Pittsburgh, PA -- Wyndham Grand Pittsburgh Downtown
+
+
+**Dates:** October 5th - 7th
+
+**Proposal Deadline:** 14th of June 2026
+
+## Research RFPs
+
+**​AIMS EDU Data**  - grant to conduct research with Digital Learning Platforms in K12 Math Instruction, awards $10k-$400k, special interest in early career researchers.  Proposals Due March 2, 2026, “Office Hours” with platforms being held now.  URL: https://digitalpromise.org/initiative/advancing-innovative-math-solutions-aims-home/
+
+**K12 AI Infrastructure**  - grant to develop digital public goods to improve the outcomes of AI in educational contexts through creation of datasets, benchmarks, evals, models and other components to build effective formative feedback solutions. Awards from $50,000-$250,000 and due March 8, 2026.  URL: https://digitalpromise.org/initiative/advancing-innovative-math-solutions-aims-home/
+
+------------------------------------------------------------------------
+
+## Research Presentation
+
+John Whitmer (Learning Data Insights), Aaron Wong (University of Minnesota), Maggie Beiting-Parrish
+
+GenAI Evidence Hub for Assessment: Initial Insights & Methods to Interpret AI Research Results
+
+# Additional SIG Updates & Calls for Participation
+
+------------------------------------------------------------------------
+
+## Building Educational Applications 2026
+
+The BEA 2026 Workshop (co-located with ACL in San Diego, California, United States, on July 2nd or 3rd, 2026) invites submissions to the main track, including both long and short papers. Accepted submissions will be considered for oral or poster presentations.
+
+
+**Submission Deadline**: March 23, 2026
+
+**Notification of Acceptance**: April 28, 2026
+
+**Location**: San Diego, CA
+
+**Workshop**: July 2-3, 2026
+
+------------------------------------------------------------------------
+
+
+## Special Issue: The Asia-Pacific Education Researcher
+
+-   **Topic:** Review and Meta-Analysis of AI in Education
+
+-   **Focus:** The special issue will focus on a comprehensive review and meta-analysis of how artificial intelligence (AI) impacts education, spanning multiple critical areas that address both current challenges and future opportunities.
+
+-   **Goal:** This issue aims to foster transformative impacts in education through AI, employing a review-centric approach that synthesizes existing research, identifies gaps in our understanding, and suggests theoretical and practical paths forward.
+
+-   **Key Dates:**
+
+-   Full paper submission deadline: 30 March 2026
+
+-   Review decision: 1 June 2026
+
+-   Final version submission: 15th September 2026
+
+-   Publication date: 15 October 2026
+
+-   **Website:** <https://link.springer.com/collections/daaajbgbgq>
+
+------------------------------------------------------------------------
+
+## International Meeting of the Psychometric Society
+
+IMPS is the annual International Meeting of the Psychometric Society, a professional organization devoted to the development of psychology as a quantitative rational science, including the advancement of theory and methodology for behavioral data analysis in psychology, education, and the social and behavioral sciences generally.
+
+The IMPS 2026 Annual Meeting is scheduled to be an in-person meeting. The conference will take place at Yonsei University. Mark your calendars to join us in Seoul, Republic of Korea, in July 2026, and please continue to check this website in the future for more updates!
+
+**Proposal Deadline**: January 15, 2026
+
+**Place**: Seoul, Republic of Korea
+
+**Date**: July 21-24, 2026
+
+https://www.psychometricsociety.org/
+
+## The 27th International Conference on AI in Education (AIED 2026)
+
+AIED 2026 marks the 27th edition of the International Conference on Artificial Intelligence in Education, at a time when AI is transforming education and society at an unprecedented pace. AIED 2026 will serve as a vibrant forum for researchers, practitioners, and policymakers to critically examine the promises, challenges, and impacts of AI in education.
+
+
+**Place**: Seoul, Republic of Korea
+
+**Date**: June 29 - July 3, 2026
