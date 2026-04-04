@@ -266,6 +266,8 @@ March 18th: 1:30pm - 2:30pm (EST) \[[Slides](meetings/March2026/slides.html)\]
 
 **Moving Measurement Forward**
 
+[AI Talks](https://www.ncme-aime.org/meetings/NCME2026/schedule.html)
+
 | Presenting Organization | Artificial Intelligence in Measurement and Education (AIME) Special Interest Group of the National Council on Measurement in Education (NCME) |
 |------------------------------------|------------------------------------|
 | Location | Los Angeles, California |
