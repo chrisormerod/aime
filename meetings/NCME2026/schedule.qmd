@@ -1,5 +1,5 @@
 ---
-title: "Artificial Intelligence in Measurement and Education"
+title: "NCME Annual Meeting 2026 - AI Talks"
  
 format:
   revealjs:
@@ -9,60 +9,61 @@ format:
 
 ## Wednesday - 8th of April
 
-| Time         | Title                                                                 | Presenter(s)                                                                 | Place                          |
-|--------------|----------------------------------------------------------------------|------------------------------------------------------------------------------|--------------------------------|
-| 8:00 - 10:00 | Using LLMs for Scalable, Auditable Qualitative Coding & Scoring in Google Sheets | Max Lu and Rony Rodriguez-Ramirez                                           | Silver Lake B                  |
-| 10:00-12:00  | Applying Data Mining in Multi-Agent Systems for Test Fraud Detection  | Kaiwen Man, Sarah Toton, Kylie Gorney, Jujia Li, Qipeng Chen                | Hollywood Ballroom I           |
-| 10:00-12:00  | Bayesian Networks in the Age of AI (A Tribute to Robert Mislevy)      | Duanli Yan, Diego Zapata-Rivera, and Russell Almond                         | Hollywood Ballroom II          |
-| 10:00-12:00  | Demystify Amazon Web Services (AWS): Cloud Computing and Artificial Intelligence in Psychometric Applications | Ye Ma, Vinita Talreja, Mingqin Zhang, and Huiijuan Meng | Wilshire Grand Ballroom I      |
-| 10:00-12:00  | Integrating Generative AI into R Workflows: From APIs to Shiny Apps   | Chris Runyon                                                                 | Wilshire Grand Ballroom III    |
-| 1:00-5:00    | Beyond the Score: Creating Rich Feedback with Digital Assessment Data and AI | Hongwen Guo, Matthew Johnson, Luis Saldivia, and Michelle Worthington      | Wilshire Grand Ballroom I      |
+| Time | Title | Presenter(s) | Place |
+|--------------|---------------------|------------------------|--------------|
+| 8:00 - 10:00 | Using LLMs for Scalable, Auditable Qualitative Coding & Scoring in Google Sheets | Max Lu and Rony Rodriguez-Ramirez | Silver Lake B |
+| 10:00-12:00 | Applying Data Mining in Multi-Agent Systems for Test Fraud Detection | Kaiwen Man, Sarah Toton, Kylie Gorney, Jujia Li, Qipeng Chen | Hollywood Ballroom I |
+| 10:00-12:00 | Bayesian Networks in the Age of AI (A Tribute to Robert Mislevy) | Duanli Yan, Diego Zapata-Rivera, and Russell Almond | Hollywood Ballroom II |
+| 10:00-12:00 | Demystify Amazon Web Services (AWS): Cloud Computing and Artificial Intelligence in Psychometric Applications | Ye Ma, Vinita Talreja, Mingqin Zhang, and Huiijuan Meng | Wilshire Grand Ballroom I |
+| 10:00-12:00 | Integrating Generative AI into R Workflows: From APIs to Shiny Apps | Chris Runyon | Wilshire Grand Ballroom III |
+| 1:00-5:00 | Beyond the Score: Creating Rich Feedback with Digital Assessment Data and AI | Hongwen Guo, Matthew Johnson, Luis Saldivia, and Michelle Worthington | Wilshire Grand Ballroom I |
 
----
+------------------------------------------------------------------------
 
 ## Thursday - 9th of April
 
-| Time         | Title                                                                 | Place                     |
-|--------------|----------------------------------------------------------------------|---------------------------|
-| 7:45-9:15    | Item Parameter Prediction and Difficulty Modeling                    | Silver Lake A            |
-| 7:45-9:15    | Three Years After GPT-4: How Has AI Changed Assessments? How Will It? | Westwood                 |
-| 9:45-11:15   | Evaluating the Effectiveness of AI                                   | K-Town                   |
-| 9:45-11:15   | Automated Scoring Engine Training: Addressing Real World Constraints | Roosevelt A              |
-| 11:30-12:45  | AI in Medical Assessment: Innovations in Content, Credibility, and Classification | Roosevelt A      |
-| 11:30-12:45  | The Design Dialog: How AI Amplifies and Needs Assessment Design Frameworks | Roosevelt B       |
-| 11:30-1:00   | Using AI for Aligning Standards                                     | Hollywood Ballroom II    |
-| 1:45-3:15    | Assessing Invariance of Automated Scoring Models                     | K-Town                   |
-| 1:45-3:15    | AI Ethics, Policy, and Practice in Training Measurement Professionals: A Panel Discussion | Roosevelt A |
-| 3:45-5:15    | Applications of AI in Psychometrics and Assessment                   | K-Town                   |
-| 3:45-5:15    | From Topic Models to LLMs: AI-Driven Applications in Educational Measurement | Roosevelt B      |
----
+| Time | Title | Place |
+|---------------|-----------------------------------------|---------------|
+| 7:45-9:15 | Item Parameter Prediction and Difficulty Modeling | Silver Lake A |
+| 7:45-9:15 | Three Years After GPT-4: How Has AI Changed Assessments? How Will It? | Westwood |
+| 9:45-11:15 | Evaluating the Effectiveness of AI | K-Town |
+| 9:45-11:15 | Automated Scoring Engine Training: Addressing Real World Constraints | Roosevelt A |
+| 11:30-12:45 | AI in Medical Assessment: Innovations in Content, Credibility, and Classification | Roosevelt A |
+| 11:30-12:45 | The Design Dialog: How AI Amplifies and Needs Assessment Design Frameworks | Roosevelt B |
+| 11:30-1:00 | Using AI for Aligning Standards | Hollywood Ballroom II |
+| 1:45-3:15 | Assessing Invariance of Automated Scoring Models | K-Town |
+| 1:45-3:15 | AI Ethics, Policy, and Practice in Training Measurement Professionals: A Panel Discussion | Roosevelt A |
+| 3:45-5:15 | Applications of AI in Psychometrics and Assessment | K-Town |
+| 3:45-5:15 | From Topic Models to LLMs: AI-Driven Applications in Educational Measurement | Roosevelt B |
+
+------------------------------------------------------------------------
 
 ## Friday - 10th of April
 
-| Time         | Title                                                                 | Place                     |
-|--------------|----------------------------------------------------------------------|---------------------------|
-| 9:45-11:15   | From Generation to Calibration: Leveraging AI for Item Development, Piloting, and Scoring | Hollywood Ballroom II |
-| 9:45-11:15   | Advancing Conversation-Based Assessment with Large Language Models   | Roosevelt B              |
-| 11:30-12:45  | Integrating AI into Assessment and Psychometric Practice             | Wilshire Grand Ballroom III |
-| 1:45-3:00    | Advances in Scoring English Language Learner Items and Responses     | Roosevelt A              |
-| 1:45-3:00    | Automated Coding with LLM: Accuracy and Fairness                     | Silver Lake B            |
-| 3:30-5:00    | Practical Applications of Artificial Intelligence in the Development of Large-Scale Assessments | Hollywood Ballroom II |
-| 3:30-5:00    | Creating and Evaluating Automated Raters                             | Majestic                 |
+| Time | Title | Place |
+|---------------|-----------------------------------------|---------------|
+| 9:45-11:15 | From Generation to Calibration: Leveraging AI for Item Development, Piloting, and Scoring | Hollywood Ballroom II |
+| 9:45-11:15 | Advancing Conversation-Based Assessment with Large Language Models | Roosevelt B |
+| 11:30-12:45 | Integrating AI into Assessment and Psychometric Practice | Wilshire Grand Ballroom III |
+| 1:45-3:00 | Advances in Scoring English Language Learner Items and Responses | Roosevelt A |
+| 1:45-3:00 | Automated Coding with LLM: Accuracy and Fairness | Silver Lake B |
+| 3:30-5:00 | Practical Applications of Artificial Intelligence in the Development of Large-Scale Assessments | Hollywood Ballroom II |
+| 3:30-5:00 | Creating and Evaluating Automated Raters | Majestic |
 
----
+------------------------------------------------------------------------
 
 ## Saturday - 11th of April
 
-| Time         | Title                                                                 | Place                         |
-|--------------|----------------------------------------------------------------------|-------------------------------|
-| 7:45-9:15    | Scoring Early Literacy Tasks: Cross-Vendor Research and Perspectives | Majestic                      |
-| 9:45-11:15   | AI Item Difficulty Modeling                                          | Boyle Heights                 |
-| 9:45-11:15   | AI-Assisted Assessment Development                                   | K-Town                        |
-| 9:45-11:15   | Automated Scoring Research: Security, Efficiency, and Interpretability | Ladera Heights              |
-| 9:45-11:15   | AI, Machine Learning, & Natural Language Processing Research         | Roosevelt B                   |
-| 11:30-12:45  | AI-Driven Interactive Speaking and Math Assessments: Innovations in Design and Scoring | Ladera Heights        |
-| 11:30-12:45  | An NCME Debate Session: The AI Landscape for Industry and Academia   | Wilshire Grand Ballroom III   |
-| 1:45-3:15    | Fairness Concerns with AI                                            | Roosevelt B                   |
-| 3:30-5:00    | Text/Speech-based Approaches to Item Parameter Modeling              | Boyle Heights                 |
-| 3:30-5:00    | Automated Scoring: Combining and Comparing Human and AI Raters       | Roosevelt A                   |
-| 3:30-5:00    | Inclusion, Equity, and Fairness in TIMSS and PIRLS                   | Westwood                      |
+| Time | Title | Place |
+|---------------|----------------------------------------|-----------------|
+| 7:45-9:15 | Scoring Early Literacy Tasks: Cross-Vendor Research and Perspectives | Majestic |
+| 9:45-11:15 | AI Item Difficulty Modeling | Boyle Heights |
+| 9:45-11:15 | AI-Assisted Assessment Development | K-Town |
+| 9:45-11:15 | Automated Scoring Research: Security, Efficiency, and Interpretability | Ladera Heights |
+| 9:45-11:15 | AI, Machine Learning, & Natural Language Processing Research | Roosevelt B |
+| 11:30-12:45 | AI-Driven Interactive Speaking and Math Assessments: Innovations in Design and Scoring | Ladera Heights |
+| 11:30-12:45 | An NCME Debate Session: The AI Landscape for Industry and Academia | Wilshire Grand Ballroom III |
+| 1:45-3:15 | Fairness Concerns with AI | Roosevelt B |
+| 3:30-5:00 | Text/Speech-based Approaches to Item Parameter Modeling | Boyle Heights |
+| 3:30-5:00 | Automated Scoring: Combining and Comparing Human and AI Raters | Roosevelt A |
+| 3:30-5:00 | Inclusion, Equity, and Fairness in TIMSS and PIRLS | Westwood |
