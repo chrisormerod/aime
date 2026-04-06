@@ -28,8 +28,11 @@ format:
 | 7:45-9:15 | Three Years After GPT-4: How Has AI Changed Assessments? How Will It? | Westwood |
 | 9:45-11:15 | Evaluating the Effectiveness of AI | K-Town |
 | 9:45-11:15 | Automated Scoring Engine Training: Addressing Real World Constraints | Roosevelt A |
+| 9:45-11:15 | Individual eBoards: AI, Technology, and CAT | Hancock Park |
+| 11:30-12:30 | Individual eBoards: AI and Automated Scoring | Hancock Park |
 | 11:30-12:45 | AI in Medical Assessment: Innovations in Content, Credibility, and Classification | Roosevelt A |
 | 11:30-12:45 | The Design Dialog: How AI Amplifies and Needs Assessment Design Frameworks | Roosevelt B |
+| 11:30-12:45 | Deconstructing AI Outputs for Bias in the Workplace | Boyle Heights |
 | 11:30-1:00 | Using AI for Aligning Standards | Hollywood Ballroom II |
 | 1:45-3:15 | Assessing Invariance of Automated Scoring Models | K-Town |
 | 1:45-3:15 | AI Ethics, Policy, and Practice in Training Measurement Professionals: A Panel Discussion | Roosevelt A |
@@ -44,7 +47,7 @@ format:
 |---------------|-----------------------------------------|---------------|
 | 9:45-11:15 | From Generation to Calibration: Leveraging AI for Item Development, Piloting, and Scoring | Hollywood Ballroom II |
 | 9:45-11:15 | Advancing Conversation-Based Assessment with Large Language Models | Roosevelt B |
-| 11:30-12:45 | Integrating AI into Assessment and Psychometric Practice | Wilshire Grand Ballroom III |
+| 11:30-12:45 | Measurement-Informed Approaches to Evaluate GenAI Outputs (AIME Session) | Wilshire Grand Ballroom III |
 | 1:45-3:00 | Advances in Scoring English Language Learner Items and Responses | Roosevelt A |
 | 1:45-3:00 | Automated Coding with LLM: Accuracy and Fairness | Silver Lake B |
 | 3:30-5:00 | Practical Applications of Artificial Intelligence in the Development of Large-Scale Assessments | Hollywood Ballroom II |
@@ -57,6 +60,7 @@ format:
 | Time | Title | Place |
 |---------------|----------------------------------------|-----------------|
 | 7:45-9:15 | Scoring Early Literacy Tasks: Cross-Vendor Research and Perspectives | Majestic |
+| 8:30-9:45 | Graduate Student eBoards: AI & Machine Learning | Hancock Park |
 | 9:45-11:15 | AI Item Difficulty Modeling | Boyle Heights |
 | 9:45-11:15 | AI-Assisted Assessment Development | K-Town |
 | 9:45-11:15 | Automated Scoring Research: Security, Efficiency, and Interpretability | Ladera Heights |
@@ -64,6 +68,7 @@ format:
 | 11:30-12:45 | AI-Driven Interactive Speaking and Math Assessments: Innovations in Design and Scoring | Ladera Heights |
 | 11:30-12:45 | An NCME Debate Session: The AI Landscape for Industry and Academia | Wilshire Grand Ballroom III |
 | 1:45-3:15 | Fairness Concerns with AI | Roosevelt B |
+| 1:45-3:15 | Psychometric Overlord Auditions Take 2: Prove Me Wrong | Hollywood Ballroom II |
 | 3:30-5:00 | Text/Speech-based Approaches to Item Parameter Modeling | Boyle Heights |
 | 3:30-5:00 | Automated Scoring: Combining and Comparing Human and AI Raters | Roosevelt A |
 | 3:30-5:00 | Inclusion, Equity, and Fairness in TIMSS and PIRLS | Westwood |
