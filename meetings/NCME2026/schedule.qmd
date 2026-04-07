@@ -47,6 +47,7 @@ format:
 |---------------|-----------------------------------------|---------------|
 | 9:45-11:15 | From Generation to Calibration: Leveraging AI for Item Development, Piloting, and Scoring | Hollywood Ballroom II |
 | 9:45-11:15 | Advancing Conversation-Based Assessment with Large Language Models | Roosevelt B |
+| 11:30-12:45 | Integrating AI into Assessment and Psychometric Practice | Silver Lake |
 | 11:30-12:45 | Measurement-Informed Approaches to Evaluate GenAI Outputs (AIME Session) | Wilshire Grand Ballroom III |
 | 1:45-3:00 | Advances in Scoring English Language Learner Items and Responses | Roosevelt A |
 | 1:45-3:00 | Automated Coding with LLM: Accuracy and Fairness | Silver Lake B |
