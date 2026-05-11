@@ -258,7 +258,7 @@ March 18th: 1:30pm - 2:30pm (EST) \[[Slides](meetings/March2026/slides.html)\]
 
 **Title:** Measuring Machines: Psychometrics for AI Development and Evaluation
 
-**Presenter:** Jodi Casabianca \[[link](https://drive.google.com/file/d/1gy2rYT5bLvX0YTYL5Ibx3gH8BMlY43p9/view?usp=sharing)\]
+**Presenter:** Jodi Casabianca (Broadmetrics) \[[link](https://drive.google.com/file/d/1gy2rYT5bLvX0YTYL5Ibx3gH8BMlY43p9/view?usp=sharing)\]
 
 ------------------------------------------------------------------------
 
@@ -268,17 +268,21 @@ March 18th: 1:30pm - 2:30pm (EST) \[[Slides](meetings/March2026/slides.html)\]
 
 [AI Talks](https://www.ncme-aime.org/meetings/NCME2026/schedule.html)
 
-| Presenting Organization | Artificial Intelligence in Measurement and Education (AIME) Special Interest Group of the National Council on Measurement in Education (NCME) |
-|------------------------------------|------------------------------------|
-| Location | Los Angeles, California |
-| Dates | April 8 through October 11, 2026 |
-| Modality | In-person |
-| Call for Proposals | See the [call for proposals here](https://higherlogicdownload.s3.amazonaws.com/NCME/4b7590fc-3903-444d-b89d-c45b7fa3da3f/UploadedImages/2026_Annual_Meeting/CallforProposals2026_July2.pdf). |
-| Proposal Deadline | September 12, 2025; 11:59pm PDT |
+------------------------------------------------------------------------
 
-For more information, visit the official NCME Annual Meeting website:
+May 13th: 4:00pm - 5:00pm (EST) \[[Slides](meetings/May2026/slides.html)\]
 
-<https://www.ncme.org/event/annual-meeting/upcoming-meeting2026>
+**Title:** Beyond Additional Human Scores: Automated Scoring Reliability Estimation in ILSAs
+
+**Presenter:** Jenny (Ji Yoon) Jung, TIMSS & PIRLS International Study Center
+
+------------------------------------------------------------------------
+
+June 13th: 4:00pm - 5:00pm (EST) 
+
+**Title:** TBD
+
+**Presenter:** TBD
 
 ------------------------------------------------------------------------
 
