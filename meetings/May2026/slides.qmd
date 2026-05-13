@@ -17,7 +17,6 @@ format:
 
 -   Secretary: Maggie Beiting-Parrish
 
-
 ## Outline
 
 -   AIME Updates
@@ -42,7 +41,7 @@ This year’s conference theme, “Measurement Science in AI-Integrated Assessme
 
 **Proposal Deadline:** 14th of June 2026
 
-The call for for proposals is out. Please submit your ideas through xcd. 
+The call for for proposals is out. Please submit your ideas through xcd.
 
 https://www.xcdsystem.com/ncme/member/
 
@@ -53,6 +52,42 @@ Jenny (Ji Yoon) Jung, TIMSS & PIRLS International Study Center
 Beyond Additional Human Scores: Automated Scoring Reliability Estimation in ILSAs
 
 # Additional SIG Updates & Calls for Participation
+
+------------------------------------------------------------------------
+
+## AI and the Future of Education Conference
+
+The AI and the Future of Education invites educators and scholars to explore the transformative role of AI in postsecondary education. As AI continues to evolve, its impact on individual disciplines, student learning, faculty teaching, accessibility, and job preparedness remains a critical area of study and application. This conference serves as a platform to discuss innovations, challenges, and best practices related to AI in higher education.
+
+**Dates**: November 12 - 13, 2026
+
+**Format**: Virtual
+
+**Cost**: Free and open to the public
+
+Registration TBD!
+
+https://www.apus.edu/academic-community/conferences/ai-and-the-future-of-education/
+
+------------------------------------------------------------------------
+
+## Conference on AI and Higher Education
+
+Colleges and universities are moving quickly—from isolated experimentation toward coordinated, institution-wide strategies that address academic integrity, curricular transformation, workforce preparation, and operational innovation. The AAC&U Conference on AI and Higher Education convenes leaders from across the campus ecosystem to share evidence-based practices, examine persistent challenges, and develop integrated approaches to responsible AI adoption.
+
+Date: October 28 – 30, 2026
+
+Place: Hilton | Atlanta, Georgia, and Online
+
+https://www.aacu.org/event/conference-on-ai-and-higher-education
+
+------------------------------------------------------------------------
+
+## The International Journal of AI in Pedagogy, Innovation, and Learning Futures
+
+The International Journal of AI in Pedagogy, Innovation, and Learning Futures is a peer-reviewed publication focused on how artificial intelligence is transforming teaching, learning, and the future of educational systems. 
+
+https://journals.calstate.edu/ijaipil
 
 ------------------------------------------------------------------------
 
