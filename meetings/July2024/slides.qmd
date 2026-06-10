@@ -11,19 +11,19 @@ format:
 
 ### Executive Board
 
--   Co-Chair: Chris Ormerod
+- Co-Chair: Chris Ormerod
 
--   Co-chair: John Whitmer
+- Co-chair: John Whitmer
 
--   Secretary: Maggie Beiting-Parrish
+- Secretary: Maggie Beiting-Parrish
 
 ## Outline
 
--   AIME Updates
+- AIME Updates
 
--   Today's Speakers: Corey Palermo from Measurement Incorporated and Joshua Wilson from the University of Delaware
+- Today's Speakers: Corey Palermo from Measurement Incorporated and Joshua Wilson from the University of Delaware
 
--   Additional SIG Updates & Calls for Participation
+- Additional SIG Updates & Calls for Participation
 
 ## AIME Updates
 
@@ -49,7 +49,7 @@ Okan Bulut, Maggie Beiting-Parrish, Jodi M Casabianca, Sharon C Slater, Hong Jia
 
 <https://arxiv.org/abs/2406.18900>
 
-A special thanks to Okan Bulut for his organization and all the authors for putting this together. 
+A special thanks to Okan Bulut for his organization and all the authors for putting this together.
 
 ## Research Presentation
 
@@ -67,9 +67,9 @@ In this session, Corey Palermo from Measurement Incorporated and Joshua Wilso
 
 We are seeking a full-time postdoctoral research associate to work in the machine learning for education (ML4Ed) research group, led by Andrew Lan, at UMass. Research directions:
 
--   First, natural language processing (NLP) for education, including large language model (LLM)-based student modeling, question/feedback/learning content generation, automated scoring and student error diagnosis, etc.
+- First, natural language processing (NLP) for education, including large language model (LLM)-based student modeling, question/feedback/learning content generation, automated scoring and student error diagnosis, etc.
 
--   Second, building a national cyberinfrastructure for transforming STEM education, a \$90M project funded via NSF’s mid-scale research infrastructure-2 program.
+- Second, building a national cyberinfrastructure for transforming STEM education, a \$90M project funded via NSF’s mid-scale research infrastructure-2 program.
 
 Ideal candidates have a strong publication record in relevant areas. Applicants should have a PhD degree (by the time they start) in computer science or a related field (e.g., education, psychology).
 
@@ -108,5 +108,17 @@ Curious to know how schools and districts successfully implement artificial inte
 Discover how AI can benefit you at the AI for Educators Conference (AI for Edu)!
 
 <https://tcea.org/event/ai-for-educators-conference-2024/>
+
+-----------------------------------
+
+## Finnish Learning Analytics and Artificial Intelligence in Education Conference
+
+The main focus of the conference is on Learning Analytics and Artificial Intelligence to support teaching and learning in all contexts of education. The aim is to bring together researchers from different countries and various disciplinary traditions to present their research in the field of Learning Analytics and Artificial Intelligence, to discuss the use of them to support learning and the role of education and educational science in Learning Analytics and Artificial Intelligence. The conference is addressing both junior and senior scholars to present their work.
+
+**Place:** Joensuu
+
+**Dates:** October 29-30, 2026
+
+**Submission Deadline:** 31st of July
 
 # Thank You

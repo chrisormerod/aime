@@ -11,19 +11,19 @@ format:
 
 ### Executive Board
 
--   Co-Chair: Chris Ormerod
+- Co-Chair: Chris Ormerod
 
--   Co-chair: John Whitmer
+- Co-chair: John Whitmer
 
--   Secretary: Maggie Beiting-Parrish
+- Secretary: Maggie Beiting-Parrish
 
 ## Outline
 
--   AIME Updates
+- AIME Updates
 
--   Research Presentation: Chris Ormerod, College Board
+- Research Presentation: Chris Ormerod, College Board
 
--   Additional SIG Updates & Calls for Participation
+- Additional SIG Updates & Calls for Participation
 
 ## AIME Updates
 
@@ -33,7 +33,7 @@ format:
 
 **Dates:** October 5th - 7th
 
-**Proposal Deadline (extension):** 6/21/2026 
+**Proposal Deadline (extension):** 6/21/2026
 
 **Location:** Wyndham Grand Pittsburgh Downtown
 
@@ -49,12 +49,11 @@ The submission portal is open
 
 ## Research Presentation
 
-Chris Ormerod 
+Chris Ormerod
 
 Paying Attention to Mamba: Long-Sequence Scoring Beyond Transformers
 
 # Additional SIG Updates & Calls for Participation
-
 
 ## AI and the Future of Education Conference
 
@@ -78,7 +77,7 @@ Colleges and universities are moving quickly—from isolated experimentation tow
 
 Date: October 28 – 30, 2026
 
-Place: Hilton | Atlanta, Georgia, and Online
+Place: Hilton \| Atlanta, Georgia, and Online
 
 https://www.aacu.org/event/conference-on-ai-and-higher-education
 
@@ -86,7 +85,7 @@ https://www.aacu.org/event/conference-on-ai-and-higher-education
 
 ## The International Journal of AI in Pedagogy, Innovation, and Learning Futures
 
-The International Journal of AI in Pedagogy, Innovation, and Learning Futures is a peer-reviewed publication focused on how artificial intelligence is transforming teaching, learning, and the future of educational systems. 
+The International Journal of AI in Pedagogy, Innovation, and Learning Futures is a peer-reviewed publication focused on how artificial intelligence is transforming teaching, learning, and the future of educational systems.
 
 https://journals.calstate.edu/ijaipil
 
@@ -104,19 +103,19 @@ The BEA 2026 Workshop (co-located with ACL in San Diego, California, United Stat
 
 ## Special Issue: The Asia-Pacific Education Researcher
 
--   **Topic:** Review and Meta-Analysis of AI in Education
+- **Topic:** Review and Meta-Analysis of AI in Education
 
--   **Focus:** The special issue will focus on a comprehensive review and meta-analysis of how artificial intelligence (AI) impacts education, spanning multiple critical areas that address both current challenges and future opportunities.
+- **Focus:** The special issue will focus on a comprehensive review and meta-analysis of how artificial intelligence (AI) impacts education, spanning multiple critical areas that address both current challenges and future opportunities.
 
--   **Goal:** This issue aims to foster transformative impacts in education through AI, employing a review-centric approach that synthesizes existing research, identifies gaps in our understanding, and suggests theoretical and practical paths forward.
+- **Goal:** This issue aims to foster transformative impacts in education through AI, employing a review-centric approach that synthesizes existing research, identifies gaps in our understanding, and suggests theoretical and practical paths forward.
 
--   **Key Dates:**
+- **Key Dates:**
 
--   Final version submission: 15th September 2026
+- Final version submission: 15th September 2026
 
--   Publication date: 15 October 2026
+- Publication date: 15 October 2026
 
--   **Website:** <https://link.springer.com/collections/daaajbgbgq>
+- **Website:** <https://link.springer.com/collections/daaajbgbgq>
 
 ------------------------------------------------------------------------
 
@@ -139,4 +138,3 @@ AIED 2026 marks the 27th edition of the International Conference on Artificial I
 **Place**: Seoul, Republic of Korea
 
 **Date**: June 29 - July 3, 2026
-

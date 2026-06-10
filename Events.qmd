@@ -282,7 +282,7 @@ June 10th: 4:00pm - 5:00pm (EST) \[[Slides](meetings/June2026/slides.html)\]
 
 **Title:** Paying Attention to Mamba - Long-Sequence Scoring Beyond Transformers
 
-**Presenter:** Chris Ormerod, College Board 
+**Presenter:** Chris Ormerod, College Board
 
 ------------------------------------------------------------------------
 
