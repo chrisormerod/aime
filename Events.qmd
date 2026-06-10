@@ -278,11 +278,11 @@ May 13th: 4:00pm - 5:00pm (EST) \[[Slides](meetings/May2026/slides.html)\]
 
 ------------------------------------------------------------------------
 
-June 13th: 4:00pm - 5:00pm (EST) 
+June 10th: 4:00pm - 5:00pm (EST) \[[Slides](meetings/June2026/slides.html)\]
 
-**Title:** TBD
+**Title:** Paying Attention to Mamba - Long-Sequence Scoring Beyond Transformers
 
-**Presenter:** TBD
+**Presenter:** Chris Ormeord, College Board 
 
 ------------------------------------------------------------------------
 

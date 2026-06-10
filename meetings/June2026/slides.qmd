@@ -1,0 +1,142 @@
+---
+title: "Artificial Intelligence in Measurement and Education"
+ 
+format: 
+  revealjs:
+    logo: ../../images/logo-no-background-name.png
+    theme: [default, aime_theme.scss]
+---
+
+## Introductions
+
+### Executive Board
+
+-   Co-Chair: Chris Ormerod
+
+-   Co-chair: John Whitmer
+
+-   Secretary: Maggie Beiting-Parrish
+
+## Outline
+
+-   AIME Updates
+
+-   Research Presentation: Chris Ormerod, College Board
+
+-   Additional SIG Updates & Calls for Participation
+
+## AIME Updates
+
+### Artificial Intelligence in Measurement and Education Conference (AIME–Con)
+
+**Theme:** Measurement Science in AI-Integrated Assessment and Pedagogy
+
+**Dates:** October 5th - 7th
+
+**Proposal Deadline (extension):** 6/21/2026 
+
+**Location:** Wyndham Grand Pittsburgh Downtown
+
+**Website:** [www.ncme.org/event/special-conferences/aime-conference](https://www.ncme.org/event/special-conferences/aime-conference)
+
+**Contact:** [aimecon\@ncme.org](mailto:aimecon@ncme.org)
+
+#### Next steps
+
+The submission portal is open
+
+<https://www.xcdsystem.com/ncme/member/index.cfm>
+
+## Research Presentation
+
+Chris Ormerod 
+
+Paying Attention to Mamba: Long-Sequence Scoring Beyond Transformers
+
+# Additional SIG Updates & Calls for Participation
+
+
+## AI and the Future of Education Conference
+
+The AI and the Future of Education invites educators and scholars to explore the transformative role of AI in postsecondary education. As AI continues to evolve, its impact on individual disciplines, student learning, faculty teaching, accessibility, and job preparedness remains a critical area of study and application. This conference serves as a platform to discuss innovations, challenges, and best practices related to AI in higher education.
+
+**Dates**: November 12 - 13, 2026
+
+**Format**: Virtual
+
+**Cost**: Free and open to the public
+
+Registration TBD!
+
+https://www.apus.edu/academic-community/conferences/ai-and-the-future-of-education/
+
+------------------------------------------------------------------------
+
+## Conference on AI and Higher Education
+
+Colleges and universities are moving quickly—from isolated experimentation toward coordinated, institution-wide strategies that address academic integrity, curricular transformation, workforce preparation, and operational innovation. The AAC&U Conference on AI and Higher Education convenes leaders from across the campus ecosystem to share evidence-based practices, examine persistent challenges, and develop integrated approaches to responsible AI adoption.
+
+Date: October 28 – 30, 2026
+
+Place: Hilton | Atlanta, Georgia, and Online
+
+https://www.aacu.org/event/conference-on-ai-and-higher-education
+
+------------------------------------------------------------------------
+
+## The International Journal of AI in Pedagogy, Innovation, and Learning Futures
+
+The International Journal of AI in Pedagogy, Innovation, and Learning Futures is a peer-reviewed publication focused on how artificial intelligence is transforming teaching, learning, and the future of educational systems. 
+
+https://journals.calstate.edu/ijaipil
+
+------------------------------------------------------------------------
+
+## Building Educational Applications 2026
+
+The BEA 2026 Workshop (co-located with ACL in San Diego, California, United States, on July 2nd or 3rd, 2026) invites submissions to the main track, including both long and short papers. Accepted submissions will be considered for oral or poster presentations.
+
+**Location**: San Diego, CA
+
+**Workshop**: July 2-3, 2026
+
+------------------------------------------------------------------------
+
+## Special Issue: The Asia-Pacific Education Researcher
+
+-   **Topic:** Review and Meta-Analysis of AI in Education
+
+-   **Focus:** The special issue will focus on a comprehensive review and meta-analysis of how artificial intelligence (AI) impacts education, spanning multiple critical areas that address both current challenges and future opportunities.
+
+-   **Goal:** This issue aims to foster transformative impacts in education through AI, employing a review-centric approach that synthesizes existing research, identifies gaps in our understanding, and suggests theoretical and practical paths forward.
+
+-   **Key Dates:**
+
+-   Final version submission: 15th September 2026
+
+-   Publication date: 15 October 2026
+
+-   **Website:** <https://link.springer.com/collections/daaajbgbgq>
+
+------------------------------------------------------------------------
+
+## International Meeting of the Psychometric Society
+
+IMPS is the annual International Meeting of the Psychometric Society, a professional organization devoted to the development of psychology as a quantitative rational science, including the advancement of theory and methodology for behavioral data analysis in psychology, education, and the social and behavioral sciences generally.
+
+The IMPS 2026 Annual Meeting is scheduled to be an in-person meeting. The conference will take place at Yonsei University. Mark your calendars to join us in Seoul, Republic of Korea, in July 2026, and please continue to check this website in the future for more updates!
+
+**Place**: Seoul, Republic of Korea
+
+**Date**: July 21-24, 2026
+
+https://www.psychometricsociety.org/
+
+## The 27th International Conference on AI in Education (AIED 2026)
+
+AIED 2026 marks the 27th edition of the International Conference on Artificial Intelligence in Education, at a time when AI is transforming education and society at an unprecedented pace. AIED 2026 will serve as a vibrant forum for researchers, practitioners, and policymakers to critically examine the promises, challenges, and impacts of AI in education.
+
+**Place**: Seoul, Republic of Korea
+
+**Date**: June 29 - July 3, 2026
+
