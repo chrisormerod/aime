@@ -1,0 +1,162 @@
+---
+title: "Artificial Intelligence in Measurement and Education"
+ 
+format: 
+  revealjs:
+    logo: ../../images/logo-no-background-name.png
+    theme: [default, aime_theme.scss]
+---
+
+## Introductions
+
+### Executive Board
+
+- Co-Chair: Chris Ormerod
+
+- Co-chair: John Whitmer
+
+- Secretary: Maggie Beiting-Parrish
+
+## Outline
+
+- AIME Updates
+
+- Research Discussions: Jeremy Roschelle
+
+- Additional SIG Updates & Calls for Participation
+
+## AIME Updates
+
+### Artificial Intelligence in Measurement and Education Conference (AIME–Con)
+
+**Theme:** Measurement Science in AI-Integrated Assessment and Pedagogy
+
+**Dates:** October 5th - 7th
+
+**Location:** Wyndham Grand Pittsburgh Downtown
+
+**Website:** [www.ncme.org/event/special-conferences/aime-conference](https://www.ncme.org/event/special-conferences/aime-conference)
+
+**Contact:** [aimecon\@ncme.org](mailto:aimecon@ncme.org)
+
+#### Next steps
+
+We are in the process of finalizing the schedule.
+
+## NCME 2027
+
+### NCME 2027 Annual Meeting
+
+**Theme:** Moving Educational Measurement Forward in Dynamically Changing Technological and Societal Contexts
+
+**Dates:** April 14–17, 2027 (in person)
+
+**Virtual Component:** June 2–3, 2027 (training day June 2, program sessions June 3)
+
+**Location:** Toronto, Canada
+
+**Website:** [ncme.org/events/annual-meeting](https://ncme.org/events/annual-meeting/)
+
+#### Next steps
+
+Proposals for presentations and training sessions are open through **Sunday, September 13, 2026 (11:59 PM PDT)**. The theme reflects the field's need to respond to rapid advances in AI alongside evolving educational systems and societal contexts.
+
+## Research Presentation
+
+### In Conversation with Jeremy Roschelle: Learning Analytics, Measurement, and the Search for What Counts as Evidence
+
+# Additional SIG Updates & Calls for Participation
+
+## Washington DC Meetup
+
+NCME is hosting a casual meetup in Washington DC. These informal gatherings are an important way to strengthen professional connections, welcome new colleagues, and create opportunities for conversation across institutions, sectors, and career stages.
+
+**Time:** Wednesday, Aug 19th from 4:00-6:00 pm **Location:** Yardbird (901 New York Ave NW, Washington, DC 20001)
+
+**RSVP:** https://form.jotform.com/261454833030147
+
+## AI and the Future of Education Conference
+
+The AI and the Future of Education invites educators and scholars to explore the transformative role of AI in postsecondary education. As AI continues to evolve, its impact on individual disciplines, student learning, faculty teaching, accessibility, and job preparedness remains a critical area of study and application. This conference serves as a platform to discuss innovations, challenges, and best practices related to AI in higher education.
+
+**Dates**: November 12 - 13, 2026
+
+**Format**: Virtual
+
+**Cost**: Free and open to the public
+
+Registration TBD!
+
+https://www.apus.edu/academic-community/conferences/ai-and-the-future-of-education/
+
+------------------------------------------------------------------------
+
+## Conference on AI and Higher Education
+
+Colleges and universities are moving quickly—from isolated experimentation toward coordinated, institution-wide strategies that address academic integrity, curricular transformation, workforce preparation, and operational innovation. The AAC&U Conference on AI and Higher Education convenes leaders from across the campus ecosystem to share evidence-based practices, examine persistent challenges, and develop integrated approaches to responsible AI adoption.
+
+Date: October 28 – 30, 2026
+
+Place: Hilton \| Atlanta, Georgia, and Online
+
+https://www.aacu.org/event/conference-on-ai-and-higher-education
+
+------------------------------------------------------------------------
+
+## The International Journal of AI in Pedagogy, Innovation, and Learning Futures
+
+The International Journal of AI in Pedagogy, Innovation, and Learning Futures is a peer-reviewed publication focused on how artificial intelligence is transforming teaching, learning, and the future of educational systems.
+
+https://journals.calstate.edu/ijaipil
+
+------------------------------------------------------------------------
+
+## 2026 AI in Education Conference (Magna Publications)
+
+A virtual forum for educators of all disciplines and experience levels to share practical ideas and best practices for leveraging AI and educational technology in college teaching and learning, including sessions on responsible AI use, bias, academic integrity, and equitable access.
+
+**Format**: Virtual, live sessions plus on-demand access
+
+**Dates**: December 1 – 2, 2026 (live); on-demand through March 2, 2027
+
+https://www.magnapubs.com/conferences/2026-ai-in-education-conference/
+
+------------------------------------------------------------------------
+
+## EAAI-27: Symposium on Educational Advances in Artificial Intelligence
+
+Co-located with AAAI-27, EAAI-27 invites AI education researchers and educators to share advances in teaching and learning about AI—including AI literacy, AI safety and ethics, and the use of AI to support teaching and learning more broadly.
+
+**Place**: Montréal, Canada (co-located with AAAI-27)
+
+**Dates**: February 21 - 23, 2027
+
+**Key deadlines**: Abstracts due September 1, 2026; papers due September 8, 2026
+
+https://aaai.org/conference/aaai/aaai-27/eaai-27-call/
+
+------------------------------------------------------------------------
+
+## WORLDAIEDU: First World Conference on Artificial Intelligence in Education
+
+A new hybrid conference dedicated to bridging cutting-edge AI research and educational practice, with themes spanning generative models and adaptive teammates, personalization and learning analytics, and tools that support educator capacity and learner AI literacy.
+
+**Place**: London, UK (hybrid)
+
+**Dates**: February 26 - 28, 2027
+
+https://worldaiedu.org/
+
+------------------------------------------------------------------------
+
+## Special Issue: Education Sciences — Higher Education in the Age of AI
+
+- **Topic:** Higher Education in the Age of AI: Instructional Innovation, Societal Equity, and Infrastructure Reliance
+
+- **Focus:** How AI is reshaping teaching, learning, and institutional practice in higher education—including adaptive systems and intelligent tutoring, alongside risks of algorithmic bias, social stratification, and over-reliance on proprietary technologies.
+
+- **Guest Editor:** Prof. Dr. Isabel Steinhardt (Paderborn University)
+
+- **Key Date:** Manuscript submissions due September 30, 2026
+
+- **Website:** https://www.mdpi.com/journal/education/special_issues/X80W8H3Y7H
