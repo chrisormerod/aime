@@ -1,6 +1,7 @@
 ---
 title: "Literature"
-html:
+format:
+  html:
     page-layout: full
 ---
 
