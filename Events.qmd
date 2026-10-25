@@ -4,6 +4,10 @@ title: "Events"
 
 On this page, we aim to keep you up-to-date on events relevant to AI in Education.
 
+::: {.callout-note title="Give a talk at AIME"}
+Want to present in the AIME speaker series? Graduate students and early career researchers are especially welcome. [**Submit a talk proposal**](https://script.google.com/macros/s/AKfycbwNLFSFWntEabvQNrefPWT2yakkUIlFHD3QrqzKOQfBJ7jPhO76EcV0ZvN0SFH34-do/exec) or read the [speaker guidelines](guidelines.html).
+:::
+
 ### Member Events 2023
 
 ------------------------------------------------------------------------
