@@ -320,7 +320,7 @@ October 9th: 4:00pm - 5:00pm (EST) \[[Slides](meetings/October2026/slides.html)\
 
 **Title:** Hands-on Demo with triageQ & the GenAI Evidence Hub Research Repository
 
-**Presenter:** John Whitmer, LD Insights
+**Presenter:** John Whitmer, LD Insights \[[link](https://huggingface.co/buckets/cormerod/videos/tree/Oct-20-2026.mp4)\]
 
 ------------------------------------------------------------------------
 
