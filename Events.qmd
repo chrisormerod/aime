@@ -328,7 +328,8 @@ November 18th: 4:00pm - 5:00pm (EST) \[[Slides](meetings/November2026/slides.htm
 
 **Title:** Generative Psychometrics for Automatic Item Development and In-Silico Structural Validity.
 
-**Presenter:** Hudson Golino (University of Virginia) \[[link](https://www.beautiful.ai/player/-P6kQ6ZdF4zUcs1XBB1b/generative-psychometrics-for-automatic-item-development-and-in-silico-structural-validity-ncme)\]
+**Presenter:** Hudson Golino (University of Virginia) \[[link](https://www.beautiful.ai/player/-P6kQ6ZdF4zUcs1XBB1b/generative-psychometrics-for-automatic-item-development-and-in-silico-structural-validity-ncme)\], \[[paper](https://link.springer.com/article/10.3758/s13428-026-03082-1)\], \[[CRAN package](https://cran.r-project.org/package=AIGENIE)\]
+
 
 ------------------------------------------------------------------------
 
