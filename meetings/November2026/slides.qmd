@@ -1,0 +1,173 @@
+---
+title: "Artificial Intelligence in Measurement and Education"
+ 
+format: 
+  revealjs:
+    logo: ../../images/logo-no-background-name.png
+    theme: [default, aime_theme.scss]
+---
+
+## Introductions
+
+### Executive Board
+
+- Co-Chair: Chris Ormerod
+
+- Co-chair: John Whitmer
+
+- Secretary: Maggie Beiting-Parrish
+
+## Outline
+
+- AIME Updates
+
+- Research Discussion (SIGIMIE): Generative Psychometrics for Automatic Item Development and In-Silico Structural Validity
+
+- Additional SIG Updates & Calls for Participation
+
+## NCME 2027
+
+### NCME 2027 Annual Meeting
+
+**Theme:** Moving Educational Measurement Forward in Dynamically Changing Technological and Societal Contexts
+
+**Dates:** April 14–17, 2027 (in person; April 14 is a training day)
+
+**Virtual Component:** June 2–3, 2027 (training day June 2, program sessions June 3)
+
+**Location:** Toronto, Canada (InterContinental Toronto Centre and Metro Toronto Convention Centre)
+
+**Website:** [ncme.org/events/annual-meeting](https://ncme.org/events/annual-meeting/)
+
+#### Next steps
+
+The call for proposals closed on September 13, 2026. **Registration opens in December** and is handled through AERA. The theme reflects the field's need to respond to rapid advances in AI alongside evolving educational systems and societal contexts.
+
+## Research Presentation
+
+### Generative Psychometrics for Automatic Item Development and In-Silico Structural Validity
+
+**Presented by:** Hudson Golino, University of Virginia
+
+# Additional SIG Updates & Calls for Participation
+
+## Opportunities at a Glance {.smaller}
+
+| Opportunity | Type | Key date |
+|:------------------------|:-----------------------|:-----------------------|
+| NCME 2027 Annual Meeting (Toronto) | Conference | Registration opens December 2026 |
+| Magna AI in Education Conference | Virtual conference | Live December 1–2, 2026 |
+| LAK27 workshops (e.g., XAI-Ed) | Conference workshop papers | Papers due December 4, 2026 |
+| Education Sciences: AI Episteme in Higher Education | Journal special issue | Manuscripts due December 31, 2026 |
+| JMEEP: AI-Based Test Generation and Scoring | Journal special issue | Manuscripts due February 1, 2027 |
+| WORLDAIEDU (London) | Hybrid conference | Abstracts due February 5, 2027 |
+| EAAI-27 (Montréal) | Symposium | February 21–23, 2027 (submissions closed) |
+| ETR&D AI special issues | Journal special issues | March 15 and May 30, 2027 |
+| IJAIPIL | Open-access journal | Rolling, no author fees |
+
+*Information current as of November 17, 2026. Please verify deadlines on each site.*
+
+## 2026 AI in Education Conference (Magna Publications)
+
+A virtual forum for educators of all disciplines and experience levels to share practical ideas and best practices for leveraging AI and educational technology in college teaching and learning, including sessions on responsible AI use, bias, academic integrity, equitable access, and AI for assessment and feedback.
+
+**Format**: Virtual, live sessions plus on-demand access
+
+**Dates**: December 1 – 2, 2026 (live); on-demand through March 2, 2027
+
+**Cost**: Paid registration (see site for current rates)
+
+**Call for proposals**: Closed
+
+[magnapubs.com/conferences/2026-ai-in-education-conference](https://www.magnapubs.com/conferences/2026-ai-in-education-conference/)
+
+## LAK27: Learning Analytics & Knowledge Conference
+
+The 17th International Conference on Learning Analytics & Knowledge, organized by the Society for Learning Analytics Research (SoLAR). The 2027 theme is leveraging learning analytics to help individuals and communities thrive, with methods spanning AI, machine learning, NLP, and knowledge tracing.
+
+**Place**: Recife, Brazil (in person)
+
+**Dates**: March 8 - 12, 2027
+
+**Main-track deadline**: Closed (September 28, 2026). Full and short papers will be published as special issues of the *Journal of Learning Analytics* in a 2027 trial.
+
+**Still open**: Workshop paper submissions, for example the [XAI-Ed workshop on Explainable AI in Education](https://easychair.org/cfp/xai-ed-2027), are due December 4, 2026.
+
+[solaresearch.org/events/lak/lak27/general-call](https://www.solaresearch.org/events/lak/lak27/general-call/)
+
+## WORLDAIEDU: First World Conference on Artificial Intelligence in Education
+
+A new hybrid conference dedicated to bridging cutting-edge AI research and educational practice, with themes spanning generative models and adaptive teammates, personalization and learning analytics, and tools that support educator capacity and learner AI literacy.
+
+**Place**: London, UK (hybrid)
+
+**Dates**: February 26 - 28, 2027
+
+**Key deadlines**: Abstracts due February 5, 2027; registration due February 16, 2027
+
+**Publication**: Conference proceedings (ISSN and DOI) or referral to indexed journals
+
+[worldaiedu.org](https://worldaiedu.org/)
+
+## EAAI-27: Symposium on Educational Advances in Artificial Intelligence
+
+Co-located with AAAI-27, EAAI-27 invites AI education researchers and educators to share advances in teaching and learning *about* AI, including AI literacy, K-12 AI education, AI safety and ethics, and model AI assignments. This year's call focuses on education about AI rather than the use of AI to support teaching in other domains.
+
+**Place**: Montréal, Canada (co-located with AAAI-27)
+
+**Dates**: February 21 - 23, 2027
+
+**Status**: Submissions closed (papers were due September 8, 2026). Notifications go out November 17; camera-ready papers are due December 14, 2026. In-person presentation is required.
+
+[aaai.org/conference/aaai/aaai-27/eaai-27-call](https://aaai.org/conference/aaai/aaai-27/eaai-27-call/)
+
+# Publication Opportunities
+
+## Special Issue: AI-Based Test Generation and Scoring (JMEEP) {.smaller}
+
+**Journal:** Journal of Measurement and Evaluation in Education and Psychology
+
+**Topic:** Measurement Principles in the Age of AI-based Test Generation and Scoring: Validity, Fairness, and Beyond
+
+**Focus:** Methodological, empirical, and theoretical work that connects AI-based assessment to core measurement principles, including:
+
+- Validity of fully or partly AI-generated assessments
+- Psychometric evaluation of automated scoring (IRT, SEM, many-facet Rasch)
+- Fairness, DIF, and algorithmic bias
+- Human-AI collaboration and explainability
+
+**Guest Editors:** Burak Aydın (Ege University and Leuphana University), Okan Bulut (University of Alberta), Walter L. Leite (University of Florida)
+
+**Key Dates:** Full manuscripts due **February 1, 2027** (a prior proposal is not required); decisions April 1; revisions due May 15; publication August 2027
+
+**Website:** [dergipark.org.tr/en/pub/epod](https://dergipark.org.tr/en/pub/epod)
+
+## Special Issue: Education Sciences — AI in Higher Education
+
+- **Topic:** AI—The Emerging Episteme in Higher Education: New Epistemologies, Pedagogies, and Research Methodologies
+
+- **Focus:** Empirically grounded work on how AI is transforming teaching and learning in academia, including intelligent tutoring, AI-powered assessment, authentic assessment, academic integrity, and equity.
+
+- **Key Date:** Manuscript submissions due December 31, 2026
+
+- **Website:** [mdpi.com/journal/education/special_issues/21V3DYZR6M](https://mdpi.com/journal/education/special_issues/21V3DYZR6M)
+
+## Special Issues: Educational Technology Research and Development (ETR&D)
+
+- **Human-AI Co-Regulation and Learner Agency:** Rethinking learning processes in AI-supported learning contexts. Deadline: March 15, 2027
+
+- **Human-in-the-Loop:** Reenvisioning instructional design and technology development in the era of AI. Deadline: May 30, 2027
+
+- **Note:** Check each call for abstract-stage requirements before submitting.
+
+- **Website:** [link.springer.com/journal/11423](https://link.springer.com/journal/11423)
+
+## The International Journal of AI in Pedagogy, Innovation, and Learning Futures
+
+A peer-reviewed, open-access journal published at California State University, San Bernardino, focused on how artificial intelligence is transforming teaching, learning, and the future of educational systems. It welcomes research articles, case studies, theoretical papers, practice-based reflections, and reviews, with topics that include assessment, feedback, adaptive learning systems, and AI literacy and policy.
+
+**Submissions:** Rolling
+
+**Fees:** None. There are no submission or article processing charges for authors or readers.
+
+[journals.calstate.edu/ijaipil](https://journals.calstate.edu/ijaipil)
